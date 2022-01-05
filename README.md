@@ -10,7 +10,7 @@ do curso de Análise e desenvolvimento de softwares pelo Instituto INFNET da EST
 * Desenvolver APIs para expor dados para leitura e escrita
 * Configuração de banco de dados RDS.
 -------------------------------------------------------------------------------------------------------------------------------------------------
-# TP3-Microservices-Cloud
+# Microservices-Cloud
 Projet réalisé en tant qu’exigence partielle d’évaluation - Test de performance - TP3 de la discipline Développement de services Cloud avec Java  
 du cours d’analyse et de développement de logiciels par l’Institut INFNET de l’ESTI - École supérieure de technologie de l’information.
 
@@ -22,7 +22,7 @@ du cours d’analyse et de développement de logiciels par l’Institut INFNET d
 * Configuration de base de données RDS.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-# TP3-Microservices-Cloud
+# Microservices-Cloud
 Project carried out as a partial evaluative requirement - Performance Test - TP3 of the discipline Cloud Services Development with Java  
 of the course of Analysis and software development by the INFNET Institute of ESTI - Higher School of Information Technology.
 
